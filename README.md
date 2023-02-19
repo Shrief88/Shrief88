@@ -26,5 +26,6 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrief88&show_icons=true&hide_border=true&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrief88&theme=tokyonight)
 
 
