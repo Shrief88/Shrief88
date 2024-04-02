@@ -1,7 +1,7 @@
 ### Hi there I'm Shrief Essam👋
 
-- 🌱 I’m currently learning Backend Development with node js
-- 👯 I’m looking to collaborate on web development projects 
+- 🌱 I’m Full Stack developer using MERN stack.
+- 👯 I’m Currently working as a Frontend developer at C M Cherry Consulting
 - 💬 Ask me about typescript, React, Node js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shrief-essam-4486a31a1/"><img align="left" alt="Abdulrahman Ahmed" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <br><br>
